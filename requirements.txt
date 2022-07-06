@@ -7,7 +7,6 @@ scipy==1.8.1
 scikit-learn==1.1.1
 pytz==2022.1
 python-dateutil==2.8.2
-pip==22.0.4
 numpy==1.23.0
 pandas==1.4.3
 one-hot-encoder==1.1
